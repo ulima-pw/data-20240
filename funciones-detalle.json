@@ -1,0 +1,518 @@
+[
+  {
+    "movie": "Private Property",
+    "sala": "CP Alcazar",
+    "fecha": "16-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "The Hunt",
+    "sala": "CP Brasil",
+    "fecha": "08-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "The Good House",
+    "sala": "CP Brasil",
+    "fecha": "16-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "Mr. Harrigan's Phone",
+    "sala": "CP Centro",
+    "fecha": "02-03-2024",
+    "hora": "20:00"
+  },
+  {
+    "movie": "Uncharted",
+    "sala": "CP Centro",
+    "fecha": "09-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Lost Girls & Love Hotels",
+    "sala": "CP Centro",
+    "fecha": "15-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Cheaper by the Dozen",
+    "sala": "CP Centro",
+    "fecha": "27-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Werewolves Within",
+    "sala": "CP Centro Civico",
+    "fecha": "23-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Sweetwater",
+    "sala": "CP Centro Civico",
+    "fecha": "28-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Everybody's Talking About Jamie",
+    "sala": "CP Chiclayo",
+    "fecha": "14-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "The Velvet Underground",
+    "sala": "CP Chiclayo",
+    "fecha": "19-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "The Woman in the Window",
+    "sala": "CP Comas",
+    "fecha": "06-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Acidman",
+    "sala": "CP Comas",
+    "fecha": "07-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Clean",
+    "sala": "CP Comas",
+    "fecha": "12-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "Mother/Android",
+    "sala": "CP Comas",
+    "fecha": "26-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "I Care a Lot",
+    "sala": "CP Comas",
+    "fecha": "29-03-2024",
+    "hora": "17:00"
+  },
+  {
+    "movie": "Babylon",
+    "sala": "CP Guardia Civil",
+    "fecha": "09-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "The Secret: Dare To Dream",
+    "sala": "CP Guardia Civil",
+    "fecha": "10-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Half Brothers",
+    "sala": "CP Guardia Civil",
+    "fecha": "29-03-2024",
+    "hora": "17:00"
+  },
+  {
+    "movie": "Running the Bases",
+    "sala": "CP Juliaca",
+    "fecha": "04-03-2024",
+    "hora": "20:00"
+  },
+  {
+    "movie": "Smile",
+    "sala": "CP Juliaca",
+    "fecha": "13-03-2024",
+    "hora": "20:00"
+  },
+  {
+    "movie": "Jingle Jangle: A Christmas Journey",
+    "sala": "CP Juliaca",
+    "fecha": "13-03-2024",
+    "hora": "20:00"
+  },
+  {
+    "movie": "Beau Is Afraid",
+    "sala": "CP La Molina",
+    "fecha": "22-03-2024",
+    "hora": "20:00"
+  },
+  {
+    "movie": "Needle in a Timestack",
+    "sala": "CP La Molina",
+    "fecha": "29-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Long Weekend",
+    "sala": "CP Lurin",
+    "fecha": "03-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Show Me the Father",
+    "sala": "CP Lurin",
+    "fecha": "04-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "Rescued by Ruby",
+    "sala": "CP Lurin",
+    "fecha": "23-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Bones and All",
+    "sala": "CP Lurin",
+    "fecha": "26-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Run",
+    "sala": "CP Lurin",
+    "fecha": "30-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Strange World",
+    "sala": "CP Mall del Sur",
+    "fecha": "31-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "How It Ends",
+    "sala": "CP Norte",
+    "fecha": "26-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "A Crime on the Bayou",
+    "sala": "CP Norte",
+    "fecha": "30-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Senior Year",
+    "sala": "CP Norte",
+    "fecha": "31-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Rogue",
+    "sala": "CP Piura",
+    "fecha": "14-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Billie Eilish: The World's a Little Blurry",
+    "sala": "CP Primavera",
+    "fecha": "08-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Bitch Ass",
+    "sala": "CP Primavera",
+    "fecha": "14-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Hellraiser",
+    "sala": "CP Pro",
+    "fecha": "16-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "Deadlock",
+    "sala": "CP Puno",
+    "fecha": "14-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Guest House",
+    "sala": "CP Risso",
+    "fecha": "07-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "The White Tiger",
+    "sala": "CP Salaverry",
+    "fecha": "18-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "Peter Rabbit 2: The Runaway",
+    "sala": "CP San Borja",
+    "fecha": "17-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "DC League of Super-Pets",
+    "sala": "CP San Borja",
+    "fecha": "20-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Death of Me",
+    "sala": "CP San Borja",
+    "fecha": "25-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "The Glorias",
+    "sala": "CP Trujillo Centro",
+    "fecha": "04-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Teen Wolf: The Movie",
+    "sala": "CP Trujillo Centro",
+    "fecha": "17-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Braking for Whales",
+    "sala": "CP Trujillo Centro",
+    "fecha": "25-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Deep Blue Sea 3",
+    "sala": "CP Trujillo Centro",
+    "fecha": "31-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Allegoria",
+    "sala": "CP Trujillo Real Plaza",
+    "fecha": "16-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "Underwater",
+    "sala": "CP Trujillo Real Plaza",
+    "fecha": "24-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Resident Evil: Welcome to Raccoon City",
+    "sala": "CP Arequipa",
+    "fecha": "12-03-2024",
+    "hora": "17:00"
+  },
+  {
+    "movie": "Three Thousand Years of Longing",
+    "sala": "CP Cajamarca",
+    "fecha": "16-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "The Addams Family 2",
+    "sala": "CP Cajamarca",
+    "fecha": "22-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "The Tragedy of Macbeth",
+    "sala": "CP Cusco",
+    "fecha": "08-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Tom & Jerry",
+    "sala": "CP Cusco",
+    "fecha": "29-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Finding You",
+    "sala": "CP Cusco",
+    "fecha": "29-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "The Unbearable Weight of Massive Talent",
+    "sala": "CP Huancayo Real Plaza",
+    "fecha": "05-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Beast",
+    "sala": "CP Huancayo Real Plaza",
+    "fecha": "28-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Knights of the Zodiac",
+    "sala": "CP Pucallpa",
+    "fecha": "04-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "Die in a Gunfight",
+    "sala": "CP Pucallpa",
+    "fecha": "21-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "South Park: Post Covid",
+    "sala": "CP Pucallpa",
+    "fecha": "23-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "A Quiet Place Part II",
+    "sala": "CP Santa Clara",
+    "fecha": "04-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Fear Street Part Three: 1666",
+    "sala": "CP Santa Clara",
+    "fecha": "09-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "Out of Death",
+    "sala": "CP Santa Clara",
+    "fecha": "16-03-2024",
+    "hora": "17:00"
+  },
+  {
+    "movie": "Dolittle",
+    "sala": "CP Santa Clara",
+    "fecha": "24-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "Love Hard",
+    "sala": "CP Santa Clara",
+    "fecha": "24-03-2024",
+    "hora": "17:00"
+  },
+  {
+    "movie": "How to Blow Up a Pipeline",
+    "sala": "CP Tacna",
+    "fecha": "07-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "The Legend of La Llorona",
+    "sala": "CP Ventanilla",
+    "fecha": "05-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "The Eyes of Tammy Faye",
+    "sala": "CP Ventanilla",
+    "fecha": "18-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "The Grudge",
+    "sala": "CP Ventanilla",
+    "fecha": "25-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Shazam! Fury of the Gods",
+    "sala": "CP Villa El Salvador",
+    "fecha": "03-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "The White Tiger",
+    "sala": "CP Villa María del Triunfo",
+    "fecha": "19-03-2024",
+    "hora": "23:00"
+  },
+  {
+    "movie": "Blackbird",
+    "sala": "CP Caminos del Inca",
+    "fecha": "09-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "Athlete A",
+    "sala": "CP Caminos del Inca",
+    "fecha": "25-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Homeroom",
+    "sala": "CP Caminos del Inca",
+    "fecha": "25-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Mass",
+    "sala": "CP Puruchuco",
+    "fecha": "04-03-2024",
+    "hora": "20:00"
+  },
+  {
+    "movie": "The Woman King",
+    "sala": "CP Puruchuco",
+    "fecha": "19-03-2024",
+    "hora": "16:00"
+  },
+  {
+    "movie": "The Broken Hearts Gallery",
+    "sala": "CP El Polo",
+    "fecha": "14-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Arlo the Alligator Boy",
+    "sala": "CP Canto Grande",
+    "fecha": "03-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "Unseen",
+    "sala": "CP Canto Grande",
+    "fecha": "28-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Afterlife of the Party",
+    "sala": "CP Canto Grande",
+    "fecha": "31-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Freaky",
+    "sala": "CP Mall Aventura Chiclayo",
+    "fecha": "14-03-2024",
+    "hora": "21:00"
+  },
+  {
+    "movie": "A Fairy Tale After All",
+    "sala": "CP Plaza Santa Catalina",
+    "fecha": "01-03-2024",
+    "hora": "18:00"
+  },
+  {
+    "movie": "The Trial of the Chicago 7",
+    "sala": "CP Plaza Santa Catalina",
+    "fecha": "04-03-2024",
+    "hora": "15:00"
+  },
+  {
+    "movie": "Black Bear",
+    "sala": "CP Plaza Santa Catalina",
+    "fecha": "09-03-2024",
+    "hora": "19:00"
+  },
+  {
+    "movie": "The Menu",
+    "sala": "CP Plaza Santa Catalina",
+    "fecha": "15-03-2024",
+    "hora": "22:00"
+  },
+  {
+    "movie": "Mother/Android",
+    "sala": "CP Plaza Santa Catalina",
+    "fecha": "26-03-2024",
+    "hora": "15:00"
+  }
+]
